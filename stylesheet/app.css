@@ -1,0 +1,95 @@
+html,body{
+	height: 100%;
+	width: 100%;
+}
+.navbar-brand{
+	font-size: 1.5em;
+}
+.nav{
+	font-size: 1.3em;
+}
+#home{
+	background: url(https://cdn.pixabay.com/photo/2016/11/29/08/41/apple-1868496_960_720.jpg) no-repeat center fixed ;
+	height: 100%;
+	width: 100%;
+	display: table;
+	position: inherit;
+	background-size: cover;
+}
+.landing-text{
+	display: table-cell;
+	padding-bottom: 25%;
+	text-align: center;
+	vertical-align: middle;
+}
+.navbar-inverse .navbar-brand{
+	color: #dfd0ff;
+}
+.navbar-inverse .navbar-brand:hover{
+	color: #dfd0ff;
+}
+.landing-text h1{
+	font-size: 400%;
+	text-transform: uppercase;
+	text-shadow: 2px 2px #A9A9A9;
+	font-weight: bold;
+}
+.landing-text h3{
+	font-size: 200%;
+	text-shadow: 1px 1px #A9A9A9;
+	font-weight: 70;
+}
+.padding{
+	padding: 60px;
+}
+#fixed{
+	background: url(https://cdn.pixabay.com/photo/2015/03/26/09/39/woman-690036_960_720.jpg) no-repeat center fixed;
+	width: 100%;
+	display: table;
+	position: relative;
+	background-size: cover;
+}
+.care{
+	color: white;
+	font-size: 400%;
+	font-weight: bolder;
+	padding-top: 40%;
+	padding-left: 20px;
+}
+.fa-heart{
+	color: #ff4343ed;
+}
+h3{
+	font-size: 150%;
+	font-weight: bold;
+}
+
+#end{
+	height: 180px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: justify;	
+}
+.end-data{
+	font-size: 1.4em;
+	font-weight: 100;
+	letter-spacing: 1px;
+}
+.end-para{
+	font-size: 1.2em;
+	font-weight: thick;
+	letter-spacing: 2px;
+
+}
+.fab{
+	color: #66686b;
+	font-size: 1.5em;
+	padding: 10px 10px 10px 10px;
+}
+.fa-facebook-f:hover,.fa-instagram:hover,.fa-youtube:hover,.fa-google-plus-g:hover{
+	color: white;
+}
+.fa-twitter:hover{
+	color: white;
+}
